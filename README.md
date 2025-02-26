@@ -1,8 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# NAMA PROJEK MANEJEMAN TICKETING CINEMA/BIOSKOP
+# DESKRIPSI PROJEK
+## DISINI SAYA MEMBUAT MANEJEMAN TICKETING CINEMA/BIOSKOP JADI ADA DUA PENGGUNA YAITU SI PEMBELI DAN ADMIN SI PEMBELI ADALAH ORANG YANG INGIN MELAKUKAN PEMBELIAN DAN ADMIN ADALAH ORANG YANG BISA MENGELOLA ISI, DAFTAR, MENGHAPUS, MENAMBAH, DAN MENGELOLA DATA PEMBELI
+### SI PEMBELI BISA LOGIN KALAU SUDAH MEMILIKI AKUN TETAPI KALAU BELUM DIA HARUS MELAKUKAN PENDAFTARAN DAN BISA MEMBELI BUAH YANG DINGINKAN
+### SI ADMIN DAPAT MELAKUKAN LOGIN JIKA SUDAH PUNYA AKUN KALAU BELUM DIA HARUS MENDAFTAR, ADMIN DAPAT MENGELOLA ISI, DAFTAR, MENGHAPUS, MENAMBAH, DAN MENGELOLA DATA PEMBELI
